@@ -14,5 +14,4 @@ fields:
   - media-feature
   - hero-section
 pages:
-- content/blog.md
 - content/_index.md
